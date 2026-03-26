@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">hi :&#41</h1>
+
+<p align="left">
+i'm may.
+currently, i write embedded firmware for NYU arc robotics: team ultraviolet and create machine art/electronic sculptures. currently, i am developing an sculpture in the form of an interactive spherical rolling robot.
+</p>
+<picture>
+    <img src="/media/picture.jpg" alt="red and purple light with wooden pillars">
+</picture>
+
 
 <!--
 **witchlet/witchlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
