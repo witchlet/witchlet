@@ -1,25 +1,12 @@
 <h1 align="center">hi :&#41</h1>
 
-<p align="left">
-i'm may.
-currently, i write embedded firmware for NYU arc robotics: team ultraviolet and create machine art/electronic sculptures. currently, i am developing an sculpture in the form of an interactive spherical rolling robot.
-</p>
-<picture>
-    <img src="media/picture.jpg" alt="red and purple light with wooden pillars">
-</picture>
+<div>
+    <img src="media/picture.jpg" alt="red and purple light with wooden pillars" align="left" width="300" alt="sculptural installation">
+    <p align="left">
+    i'm may! currently, i write embedded firmware for NYU arc robotics: team ultraviolet and create machine art/electronic sculptures. i am also developing an interactive spherical rolling robot and some interactive video art pieces.
+    </p>
+</div>
 
 
-<!--
-**witchlet/witchlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
