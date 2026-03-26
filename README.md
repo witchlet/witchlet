@@ -6,8 +6,10 @@
     </a>
     <p align="left">
     i'm may! currently, i write embedded firmware for nyu arc robotics: team ultraviolet and create machine art/electronic sculptures. i am also developing an interactive spherical rolling robot and some interactive video art pieces.
-    <br><br><br><br>
-    ♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥♡♥
+    <br>
+    ♡♥♡♥♡♥
+    <br>
+    ♡♥♡♥♡♥
     </p>
 </div>
 
